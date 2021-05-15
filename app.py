@@ -1,8 +1,3 @@
-﻿# -*- coding: utf-8 -*-
-"""
-@author: Manasa Vijay, SD ,Vmware pvt India ltd.
-"""
-
 from flask import Flask, render_template
 from flask_cors import CORS, cross_origin
 import numpy as np
